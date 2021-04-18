@@ -1,0 +1,70 @@
+
+  
+  a {
+    position: relative;
+    display:center;
+    padding: 20px;
+    text-align:center;
+   
+  
+  }
+
+  h2{
+    position:relative;
+    text-align:center;
+}
+
+
+
+  h2{
+      position:relative;
+      text-align:center;
+      color :red;
+  }
+
+  h4{
+    position:relative;
+    text-align:center;
+    color :325288;
+}
+
+h5{
+    color :#ff8303;
+}
+
+
+  img{
+      height:100px;
+      width:100px;
+  }
+
+  li{
+      position: relative;
+      display:center;
+      list-style-position: inside;
+      text-align:center;
+      color:black;
+  }
+  ol{
+    position: relative;
+    display:center;
+    list-style-position: inside;
+    text-align:center;
+}
+ul {
+    position: relative;
+    display:center;
+    list-style-position: inside;
+    text-align:center;
+    
+}
+ 
+  p{
+    position: relative;
+    display:center;
+    text-align: center;
+  }
+
+  .başlık{
+      color: #ff8303;
+  }
